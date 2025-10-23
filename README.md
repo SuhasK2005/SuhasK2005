@@ -1,7 +1,7 @@
 <!-- Profile README for Suhas -->
 
 <h1 align="center">Hi 👋, I'm Suhas</h1>
-<h3 align="center">Aspiring Full Stack Developer</h3>
+
 
 <p align="center">
   <a href="https://github.com/SuhasK2005">
@@ -49,17 +49,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhasK2005&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasK2005&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🧠 Current Focus  
-🌱 Building projects with **React**, **Next.js**, and **Node.js**  
+🌱 Building projects with **React**.
 🧩 Exploring **Machine Learning** & **Backend APIs**  
 🎯 Improving consistency on GitHub and contributing to open source  
 
