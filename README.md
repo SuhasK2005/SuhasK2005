@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/SuhasK2005">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Web+Developer;UI%2FUX+Designer;Aspiring+Full+Stack+Developer;Always+Learning+New+Things!" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Aspiring+Full+Stack+Developer;Always+Learning+New+Things!" alt="Typing Animation"/>
   </a>
 </p>
 
